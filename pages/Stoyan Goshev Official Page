@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
-    <title>Stoyan Goshev Official Page</title>
+    <title>fotoer section</title>
     <style>
         @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
         /* start nav section */
@@ -133,17 +133,6 @@
         /* end nav section */
 
 
-
-        /* start social media buttons section */
-
-
-
-
-
-
-
-
-        /* end social media buttons section */
 
 
 
@@ -368,15 +357,11 @@
             <div class="left box">
                 <h2>About</h2>
                 <div class="content">
-                    Hello, my name is Stoyan Goshev. I have recently been dealing with front end development. I work
-                    with HTML5/CSS3/Sass/Bootstrap/JavaScript.
+                    Hello, my name is Stoyan Goshev. I have recently been dealing with front end development. I work with HTML5/CSS3/Sass/Bootstrap/JavaScript. 
                     <div class="social">
-                        <a href="https://www.facebook.com/stoyangoshevv/" target="_blank"><span
-                                class="fab fa-facebook-f"></span></a>
-                        <a href="https://www.linkedin.com/in/stoyan-goshev-199992207/" target="_blank"><span
-                                class="fab fa-linkedin"></span></a>
-                        <a href="https://instagram.com/s.goshev4600" target="_blank"><span
-                                class="fab fa-instagram"></span></a>
+                        <a href="https://www.facebook.com/stoyangoshevv/" target="_blank"><span class="fab fa-facebook-f"></span></a>
+                        <a href="https://www.linkedin.com/in/stoyan-goshev-199992207/" target="_blank"><span class="fab fa-linkedin"></span></a>
+                        <a href="https://instagram.com/s.goshev4600" target="_blank"><span class="fab fa-instagram"></span></a>
                         <a href="https://github.com/StGochew97" target="_blank"><span class="fab fa-github"></span></a>
                     </div>
                 </div>
